@@ -64,6 +64,6 @@ node_modules/
 # dotenv environment variables file
 .env
 
-.vscode
+.vscode/
 
-.node_modules
+.node_modules/
