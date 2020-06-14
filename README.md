@@ -35,3 +35,7 @@ When you placed your order you will see them in "Orders". To finish your session
 
 After you "Singed In" you will be transfered to "Burger Builder" page, where you can put ingredients for your burger.
 After when you click "ORDER NOW". The review (dialog page) will appear and show your ingredients and total price for burger. You can continue or cancel your order. When you press continue you will see your pic of the burger again. If you put continue again, Form page will appear and you need to put your all information to make
+
+## Technologies
+
+React, Redux, CSS modules, HOC, Manual UI
